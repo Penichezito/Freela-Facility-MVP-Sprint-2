@@ -32,9 +32,10 @@ APP/API para Freelancers, onde seus clientes possam enviar os arquivos de todos 
 
 ## Lean Inception - MVP Canvas 
 
+O Lean inception foi criado na ferramenta miro e contem todo processo de ideação e organização do projeto:
+
 ![](https://github.com/Penichezito/Freela-Facility-MVP-Sprint-2/blob/main/img/MVP-Canvas-FF.png)
 
-O Lean inception foi criado na ferramenta miro e contem todo processo de ideação e organização do projeto:
 # Brainstorm de Funcionalidades
 
 ### Etapa 1: Cadastro e Autenticação
