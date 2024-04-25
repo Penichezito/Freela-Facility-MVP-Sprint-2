@@ -2,6 +2,9 @@
 
 Este projeto foi feito para a Sprint 2 (**Gestão Ágil de Projetos e Produtos**) do Curso de Engenharia de Software da ***Pontíficia Universidade Católica - PUC RIO*** 
 
+## Visão do Produto
+![]()
+
 ## Objetivo do MVP 
 APP/API para Freelancers, onde seus clientes possam enviar os arquivos de todos os tipos e eles possam ser armazenados nos DB certos e organizados automaticamente através de tags para facilitar a organização e produtividade do freelancer
 
@@ -13,17 +16,19 @@ APP/API para Freelancers, onde seus clientes possam enviar os arquivos de todos 
 - Facilitar o acesso aos arquivos necessários para a execução dos projetos.
 - Objetivo: Aumentar a produtividade dos freelancers ao eliminar obstáculos na gestão de arquivos.
 
-###Satisfação do Cliente:
+### Satisfação do Cliente:
 - Garantir que os clientes possam enviar arquivos de maneira simples e segura.
 - Objetivo: Aumentar a satisfação dos clientes com a entrega rápida e organizada dos projetos.
 
-###Validação do Conceito:
+### Validação do Conceito:
 - Testar a aceitação do mercado e verificar se a plataforma atende às necessidades dos usuários.
 - Objetivo: Validar que estamos construindo o produto certo para o problema certo.
 
-###Aprendizado Contínuo:
+### Aprendizado Contínuo:
 - Coletar feedback dos usuários para aprimorar o produto ao longo do tempo.
 - Objetivo: Manter um ciclo de melhoria constante com base nas necessidades reais dos freelancers.
+
+![]()
 
 ## Lean Inception - MVP Canvas 
 
