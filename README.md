@@ -3,7 +3,7 @@
 Este projeto foi feito para a Sprint 2 (**Gestão Ágil de Projetos e Produtos**) do Curso de Engenharia de Software da ***Pontíficia Universidade Católica - PUC RIO*** 
 
 ## Visão do Produto
-![]()
+![](https://github.com/Penichezito/Freela-Facility-MVP-Sprint-2/blob/main/img/Product-Vision-Freela-Facility.png)
 
 ## Objetivo do MVP 
 APP/API para Freelancers, onde seus clientes possam enviar os arquivos de todos os tipos e eles possam ser armazenados nos DB certos e organizados automaticamente através de tags para facilitar a organização e produtividade do freelancer
@@ -28,7 +28,7 @@ APP/API para Freelancers, onde seus clientes possam enviar os arquivos de todos 
 - Coletar feedback dos usuários para aprimorar o produto ao longo do tempo.
 - Objetivo: Manter um ciclo de melhoria constante com base nas necessidades reais dos freelancers.
 
-![]()
+![](https://github.com/Penichezito/Freela-Facility-MVP-Sprint-2/blob/main/img/ObjetivoMVP-FF.png)
 
 ## Lean Inception - MVP Canvas 
 
