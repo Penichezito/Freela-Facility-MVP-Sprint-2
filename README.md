@@ -74,10 +74,9 @@ O Lean inception foi criado na ferramenta miro e contem todo processo de ideaç�
 - **Otimização de Desempenho**: Garantir a fluidez da plataforma.
 - **Escalabilidade da Infraestrutura**: Preparar para crescimento do número de usuários.
 
-## Etapa 9: Feedback do Usuário e Melhorias
+### Etapa 9: Feedback do Usuário e Melhorias
 - **Pesquisas de Satisfação**: Coletar opiniões para melhorias contínuas.
-- **Atualizações Baseadas em Feedback**: Implementar melhorias sugeridas pelos usuários.
-link para o projeto no Miro - 
+- **Atualizações Baseadas em Feedback**: Implementar melhorias sugeridas pelos usuários. 
 
 ## ***Wireframe no Figma***
 
