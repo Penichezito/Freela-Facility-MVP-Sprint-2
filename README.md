@@ -8,5 +8,8 @@ Objetivo do MVP
 
 [](https://github.com/Penichezito/Freela-Facility-MVP-Sprint-2/blob/main/img/MVP-Canvas-FF.png)
 
-O Lean inception foi 
-link para o projeto no Miro
+O Lean inception foi criado na ferramenta miro e contem todo processo de ideação e organização do projeto:
+
+link para o projeto no Miro - 
+
+## Wireframe no Figma
